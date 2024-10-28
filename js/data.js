@@ -97,8 +97,15 @@ const tagsData = {
             isExtreme: false
         },
         {
-            name: "MTL",
-            description: "Games that use automatic machine translation to adapt user's language",
+            name: "Animated",
+            description: "Sex scenes are is animated",
+            category: "Technical",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Voiced",
+            description: "Text is fully or partially voiced by voice actors",
             category: "Technical",
             comment: null,
             isExtreme: false
@@ -182,11 +189,25 @@ const tagsData = {
             isExtreme: true
         },
         {
+            name: "Body-Modification",
+            description: "Extreme alterations to the body for sexual pleasure.",
+            category: "Kinks",
+            isExtreme: true,
+            comment: "Subcategories might include scarification, branding, piercings, etc."
+        },
+        {
             name: "Bukkake",
             description: "Sex act in which one participant is ejaculated on by multiple participants",
             category: "Kinks",
             comment: null,
             isExtreme: false
+        },
+        {
+            name: "Blackmail",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
         },
         {
             name: "Cheating",
@@ -210,11 +231,25 @@ const tagsData = {
             isExtreme: true
         },
         {
+            name: "Cosplay",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
             name: "Drugs",
             description: "[TBD]",
             category: "Kinks",
             comment: null,
             isExtreme: true
+        },
+        {
+            name: "Dilf",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
         },
         {
             name: "Exhibitionism",
@@ -477,7 +512,125 @@ const tagsData = {
         },
 
 
-
+        {
+            name: "Adventure",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "DateSim",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Dystopy",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Fantasy",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Horror",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Harem",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "DateSim",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "KineticNovel",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Management",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Multiple-Endings",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "No-Sex",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Paranormal",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Parody",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Platformer",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Point-n-Click",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "DateSim",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Puzzle",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
         {
             name: "RPG",
             description: "Role-playing game with character development",
@@ -485,6 +638,101 @@ const tagsData = {
             comment: null,
             isExtreme: false
         },
+        {
+            name: "Sandbox",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Sci-Fi",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "School",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Shooter",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Side-scroller",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "School",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Simulator",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Strategy",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Text-based",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Turn-based",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "School",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Trainer",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "VisualNovel",
+            description: "[TBD]",
+            category: "Genre",
+            comment: null,
+            isExtreme: false
+        },
+
+
+
+
         {
             name: "Alien",
             description: "Features extraterrestrial characters",
@@ -494,5 +742,62 @@ const tagsData = {
         },
 
 
+
+        {
+            name: "MTL",
+            description: "Games that use automatic machine translation to adapt user's language",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Full-censorsip",
+            description: "[TBD]",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Mosaic-censorsip",
+            description: "[TBD]",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Uncensored",
+            description: "[TBD]",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Translated",
+            description: "[TBD]",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Rough-translation",
+            description: "Any 3rd party translation consisting of a required amount of text boxes/bubbles with a translation error.",
+            category: "Meta",
+            comment: "Should NOT be confused with rough grammar.",
+            isExtreme: false
+        },
+        {
+            name: "Rough-grammar",
+            description: "Any 3rd party translation consisting of a required amount of sentences with a grammatical or spelling error.",
+            category: "Meta",
+            comment: "Translations containing grammatical or spelling errors that occurred in the original work are excluded.",
+            isExtreme: false
+        },
+        {
+            name: "Speechless",
+            description: "A game with no narration or speech",
+            category: "Meta",
+            comment: null,
+            isExtreme: false
+        },
     ]
 };
