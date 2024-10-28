@@ -1195,8 +1195,7 @@ const tagsData = {
         comment: null,
         aliases: [],
         slaveTags: []
-      }
-
+      },
       {
         id: 666,
         name: "ServerErrorCode",
