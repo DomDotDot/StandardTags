@@ -1196,5 +1196,16 @@ const tagsData = {
         aliases: [],
         slaveTags: []
       }
+
+      {
+        id: 112,
+        name: "ServerErrorCode",
+        description: "A Character from THIA franchise",
+        category: "Others",
+        status: 3,
+        comment: "Calm down, this is for obsolete testings.",
+        aliases: ["Avali", "Overhappy"],
+        slaveTags: ["Furry"]
+      }
     ]
   }
