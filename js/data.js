@@ -146,8 +146,133 @@ const tagsData = {
 
 
 
-
-
+        {
+            name: "Ahegao",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Anal-sex",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "BDSM",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Bestiality",
+            description: "Sexual acts involving animals.",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Bimbofication",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Bukkake",
+            description: "Sex act in which one participant is ejaculated on by multiple participants",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Cheating",
+            description: "Sexual contact with someone other than their partner, without approval from their partner",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Creampie",
+            description: "Semen leaks from a woman's vagina after sex",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Corruption",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Drugs",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Exhibitionism",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "FemDom",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "FemSub",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        
+        {
+            name: "FootJob",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Furry",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Futanari",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Homosexual",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Groping",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
         {
             name: "Gore",
             description: "Contains graphic violence and blood",
@@ -155,6 +280,204 @@ const tagsData = {
             comment: "Usually present in horror games",
             isExtreme: true
         },
+        {
+            name: "Handjob",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Exhibitionism",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Humilation",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Incest",
+            description: "Sexual relations between family members.",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Lactation",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Lolicon",
+            description: "Sexual attraction to prepubescent female children",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Masturbation",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Milf",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "MindControl",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Necrophilia",
+            description: "Sexual attraction to corpses.",
+            category: "Kinks",
+            isExtreme: true
+        },
+        {
+            name: "Netorare",
+            description: "Sexual contact with someone other than the partner, without the partner's approval and without the victim's consent",
+            category: "Kinks",
+            comment: "Extreme Version of Cheating",
+            isExtreme: true
+        },
+        {
+            name: "OralSex",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Posession",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Pregnancy",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Prostitution",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Rape",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Scat",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Shota",
+            description: "Sexual attraction to prepubescent male children",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Sissification",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Spanking",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Stripping",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Teasing",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+        {
+            name: "Titfuck",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Transformation",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Urination",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Vaginal-Sex",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Vore",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: null,
+            isExtreme: true
+        },
+        {
+            name: "Voyeurism",
+            description: "A sexual interest in or practice of watching other people engaged in intimate behaviors",
+            category: "Kinks",
+            comment: null,
+            isExtreme: false
+        },
+
+
+
         {
             name: "RPG",
             description: "Role-playing game with character development",
