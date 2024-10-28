@@ -104,6 +104,13 @@ const tagsData = {
             isExtreme: false
         },
         {
+            name: "RealLife",
+            description: "[TBD]",
+            category: "Technical",
+            comment: "Really?",
+            isExtreme: false
+        },
+        {
             name: "Voiced",
             description: "Text is fully or partially voiced by voice actors",
             category: "Technical",
@@ -497,6 +504,13 @@ const tagsData = {
             isExtreme: true
         },
         {
+            name: "Vanilla",
+            description: "[TBD]",
+            category: "Kinks",
+            comment: "Everyone has their own tastes i guess...",
+            isExtreme: false
+        },
+        {
             name: "Vore",
             description: "[TBD]",
             category: "Kinks",
@@ -512,6 +526,8 @@ const tagsData = {
         },
 
 
+
+
         {
             name: "Adventure",
             description: "[TBD]",
@@ -519,7 +535,7 @@ const tagsData = {
             comment: null,
             isExtreme: false
         },
-        {
+    {
             name: "DateSim",
             description: "[TBD]",
             category: "Genre",
@@ -549,13 +565,6 @@ const tagsData = {
         },
         {
             name: "Harem",
-            description: "[TBD]",
-            category: "Genre",
-            comment: null,
-            isExtreme: false
-        },
-        {
-            name: "DateSim",
             description: "[TBD]",
             category: "Genre",
             comment: null,
@@ -612,13 +621,6 @@ const tagsData = {
         },
         {
             name: "Point-n-Click",
-            description: "[TBD]",
-            category: "Genre",
-            comment: null,
-            isExtreme: false
-        },
-        {
-            name: "DateSim",
             description: "[TBD]",
             category: "Genre",
             comment: null,
