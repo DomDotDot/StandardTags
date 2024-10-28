@@ -941,3 +941,14 @@ video {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
+
+
+   .tag-button.slave {
+    --tw-bg-opacity: 1;
+    background-color: rgb(20 83 45 / var(--tw-bg-opacity));
+  }
+  
+  .tag-button.slave:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgb(30 100 65 / var(--tw-bg-opacity));
+  }

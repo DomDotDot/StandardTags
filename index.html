@@ -32,7 +32,17 @@
              <div id="tabContainer" class="flex flex-wrap gap-2 mb-6">
                  <!-- Tabs will be inserted here by JavaScript -->
              </div>
-             <i>*Extreme tags are considered those that are specific in nature and are not suitable for many.</i>
+         
+             
+                  <!-- Extreme Tag Warning -->
+            <div class="bg-100 border-l-4 border-red-500 text-red-700 p-4 mb-6 rounded-r" role="alert">
+                <p class="flex items-center">
+                    <i data-lucide="alert-triangle" class="h-6 w-6 mr-2"></i>
+                    Extreme tags (red) are specific in nature and may not be suitable for all audiences.
+                </p>
+            </div>
+
+
              <!-- Tags Grid -->
              <div id="tagsGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
                 
@@ -63,5 +73,13 @@
     <script src="js/data.js"></script>
     <script src="js/tags.js"></script>
     <script src="js/ui.js"></script>
+    <script>
+        window.ui = new UI(); // Make UI instance globally accessible
+    </script>
+    
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script>
+    lucide.createIcons();
+  </script>
 </body>
 </html>

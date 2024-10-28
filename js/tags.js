@@ -8,10 +8,11 @@ class TagsManager {
     }
 
     getFilteredTags() {
+        const query = this.searchQuery.toLowerCase();
         return this.tags.filter(tag => {
-            const matchesSearch = tag.name.toLowerCase().includes(this.searchQuery.toLowerCase());
+            const matchesSearch = tag.name.toLowerCase().includes(query) || (tag.aliases && tag.aliases.some(alias => alias.toLowerCase().includes(query)));
             const matchesTab = this.activeTab === 'All' || tag.category === this.activeTab;
-            return matchesSearch && matchesTab;
+            return matchesSearch && matchesTab // && tag.status !== 3; // Exclude obsolete tags
         });
     }
 
@@ -43,4 +44,9 @@ class TagsManager {
     getTagById(id) {
         return this.tags.find(tag => tag.id === id);
     }
+
+    getMasterTag(slaveTag) {
+        return this.tags.find(tag => tag.slaveTags && tag.slaveTags.includes(slaveTag));
+    }
+
 }
