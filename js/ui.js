@@ -1,7 +1,7 @@
 class UI {
   constructor() {
       this.tagsManager = new TagsManager(tagsData);
-      this.tabs = ['All', 'Technical', 'Genre', 'Kinks', 'Characters', 'Other'];
+      this.tabs = ['All', 'Engine', 'Technical', 'Language', 'Genre', 'Kinks', 'Characters', 'Meta', 'Other'];
       this.init();
   }
 
