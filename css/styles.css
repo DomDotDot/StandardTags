@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tag-button {
+    @apply p-3 rounded-lg text-left transition-colors;
+}
+
+.tag-button:not(.extreme) {
+    @apply bg-gray-800 hover:bg-gray-700;
+}
+
+.tag-button.extreme {
+    @apply bg-red-900 hover:bg-red-800;
+}
+
+.tab-button {
+    @apply px-4 py-2 rounded-lg;
+}
+
+.tab-button.active {
+    @apply bg-blue-600 text-white;
+}
+
+.tab-button:not(.active) {
+    @apply bg-gray-800 text-gray-300 hover:bg-gray-700;
+}
+
+.pagination-button {
+    @apply px-3 py-1 rounded;
+}
+
+.pagination-button.active {
+    @apply bg-blue-600 text-white;
+}
+
+.pagination-button:not(.active) {
+    @apply bg-gray-800 text-gray-300 hover:bg-gray-700;
+}

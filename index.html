@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Tags Directory</title>
+     <!-- Tailwind CSS CDN -->
+     <script src="https://cdn.tailwindcss.com"></script>
+     <!-- Lucide Icons -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.js"></script>
+     <link rel="stylesheet" href="css/styles.css">
+     <link rel="stylesheet" href="css/output.css">
+ </head>
+ <body class="min-h-screen bg-gray-900 text-gray-100">
+     <div class="p-6">
+         <div class="max-w-6xl mx-auto">
+             <!-- Header -->
+             <h1 class="text-3xl font-bold mb-8">Game Tags Directory</h1>
+ 
+             <!-- Search Bar -->
+             <div class="relative mb-6">
+                 <i data-lucide="search" class="absolute left-3 top-3 h-5 w-5 text-gray-400"></i>
+                 <input
+                     type="text"
+                     id="searchInput"
+                     placeholder="Search tags..."
+                     class="w-full pl-10 pr-4 py-2 bg-gray-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                 >
+             </div>
+ 
+             <!-- Tab Navigation -->
+             <div id="tabContainer" class="flex flex-wrap gap-2 mb-6">
+                 <!-- Tabs will be inserted here by JavaScript -->
+             </div>
+ 
+             <!-- Tags Grid -->
+             <div id="tagsGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
+                 <!-- Tags will be inserted here by JavaScript -->
+             </div>
+ 
+             <!-- Pagination -->
+             <div id="pagination" class="flex justify-center gap-2 mb-6">
+                 <!-- Pagination buttons will be inserted here by JavaScript -->
+             </div>
+ 
+             <!-- Tag Details Modal -->
+             <div id="tagModal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
+                 <div class="bg-gray-800 p-6 rounded-lg max-w-lg w-full relative">
+                     <button id="closeModal" class="absolute right-4 top-4 text-gray-400 hover:text-white">
+                         <i data-lucide="x" class="h-6 w-6"></i>
+                     </button>
+                     <div id="modalContent">
+                         <!-- Modal content will be inserted here by JavaScript -->
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+
+
+    <!-- JavaScript files -->
+    <script src="js/data.js"></script>
+    <script src="js/tags.js"></script>
+    <script src="js/ui.js"></script>
+</body>
+</html>
