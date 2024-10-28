@@ -1,6 +1,6 @@
 # Game Tags Directory for The Hidden Insanity Archive Reviews
 
-This directory provides a standardized set of tags used in The Hidden Insanity Archive reviews. It allows for easy searching and browsing of games based on their specific features and content.
+This directory provides a standardized set of tags used in The Hidden Insanity Archive reviews. It allows for easy searching and browsing of videogames tags, their specific content.
 
 ## Getting Started
 
