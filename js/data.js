@@ -1200,7 +1200,7 @@ const tagsData = {
         id: 666,
         name: "ServerErrorCode",
         description: "A Character from THIA franchise",
-        category: "Others",
+        category: "Other",
         status: 3,
         comment: "Calm down, this is for obsolete testings.",
         aliases: ["Avali", "Overhappy"],
