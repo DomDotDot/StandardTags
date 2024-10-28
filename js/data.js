@@ -1198,7 +1198,7 @@ const tagsData = {
       }
 
       {
-        id: 112,
+        id: 666,
         name: "ServerErrorCode",
         description: "A Character from THIA franchise",
         category: "Others",
