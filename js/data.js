@@ -466,7 +466,7 @@ const tagsData = {
         status: 2,
         comment: null,
         aliases: ["Animal"],
-        slaveTags: []
+        slaveTags: ["ServerErrorCode"]
       },
       {
         id: 42,
@@ -1204,7 +1204,7 @@ const tagsData = {
         status: 3,
         comment: "Calm down, this is for obsolete testings.",
         aliases: ["Avali", "Overhappy"],
-        slaveTags: ["Furry"]
+        slaveTags: []
       }
     ]
   }
