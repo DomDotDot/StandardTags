@@ -167,7 +167,7 @@ const tagsData = {
       {
         id: 14,
         name: "Animated",
-        description: "Sex scenes are is animated",
+        description: "Animated sex scenes",
         category: "Technical",
         status: 1,
         comment: null,
@@ -177,7 +177,7 @@ const tagsData = {
       {
         id: 15,
         name: "RealLife",
-        description: "[TBD]",
+        description: "Scenes taken from real life (often photos and videos)",
         category: "Technical",
         status: 1,
         comment: "Really?",
@@ -255,7 +255,7 @@ const tagsData = {
       {
         id: 22,
         name: "Ahegao",
-        description: "[TBD]",
+        description: "Exaggerated orgasm facial expression (typical in japanese media)",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -278,7 +278,7 @@ const tagsData = {
       {
         id: 24,
         name: "Anal-sex",
-        description: "[TBD]",
+        description: "Sex scenes involve characters being anally penetrated",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -288,7 +288,7 @@ const tagsData = {
       {
         id: 25,
         name: "BDSM",
-        description: "[TBD]",
+        description: "Bondage and Discipline, Domination and Submission, Sadism and Masochism. The dominant shows outward, sometimes harmful control over the submissive.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -308,7 +308,7 @@ const tagsData = {
       {
         id: 27,
         name: "Bimbofication",
-        description: "[TBD]",
+        description: "Process of transformation to an airhead, perfectly happy to be used and degraded.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -338,7 +338,7 @@ const tagsData = {
       {
         id: 30,
         name: "Blackmail",
-        description: "[TBD]",
+        description: "Coercion using a threat (often revealing sensitive information)",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -368,7 +368,7 @@ const tagsData = {
       {
         id: 33,
         name: "Corruption",
-        description: "[TBD]",
+        description: "A character is influenced to deviate from their self to a more perverted or evil persona.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -378,7 +378,7 @@ const tagsData = {
       {
         id: 34,
         name: "Cosplay",
-        description: "[TBD]",
+        description: "Costume Play. A character wears a costume to represend a character or idea.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -388,7 +388,7 @@ const tagsData = {
       {
         id: 35,
         name: "Drugs",
-        description: "[TBD]",
+        description: "Chemical substances with known biological effects.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -421,7 +421,7 @@ const tagsData = {
       {
         id: 37,
         name: "Exhibitionism",
-        description: "[TBD]",
+        description: "Expousure of their body or certain parts, where is not normally expected (such as public areas)",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -431,7 +431,7 @@ const tagsData = {
       {
         id: 38,
         name: "FemDom",
-        description: "[TBD]",
+        description: "Sexual scenes depicting a dominant female.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -441,7 +441,7 @@ const tagsData = {
       {
         id: 39,
         name: "FemSub",
-        description: "[TBD]",
+        description: "Sexual scenes depicting a submissive female.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -451,7 +451,7 @@ const tagsData = {
       {
         id: 40,
         name: "FootJob",
-        description: "[TBD]",
+        description: "Feet are used to stimulate another character's genitalia",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -461,7 +461,7 @@ const tagsData = {
       {
         id: 41,
         name: "Furry",
-        description: "[TBD]",
+        description: "An animal character with some human qualities added in.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -471,7 +471,7 @@ const tagsData = {
       {
         id: 42,
         name: "Futanari",
-        description: "[TBD]",
+        description: "A female-bodied character with male genitalia, often depicted with both female and male genitalia present.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -481,7 +481,7 @@ const tagsData = {
       {
         id: 43,
         name: "Homosexual",
-        description: "[TBD]",
+        description: "A character who engages in sex with a person of the same sex.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -491,7 +491,7 @@ const tagsData = {
       {
         id: 44,
         name: "Groping",
-        description: "[TBD]",
+        description: "A character is sexually rubbing, feeling, or grabbing another's body in a dominating or invasive way. Often forced.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -511,7 +511,7 @@ const tagsData = {
       {
         id: 46,
         name: "Handjob",
-        description: "[TBD]",
+        description: "Stimulation of the penis with a hand.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -521,7 +521,7 @@ const tagsData = {
       {
         id: 48,
         name: "Humilation",
-        description: "[TBD]",
+        description: "A character is being, usually, forced to another to participate in a deliberately embarrassing, degrading, or humiliating activity.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -541,7 +541,7 @@ const tagsData = {
       {
         id: 50,
         name: "Lactation",
-        description: "[TBD]",
+        description: "Secretion of fluid (typically breast milk) from the nipples of a character.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -561,7 +561,7 @@ const tagsData = {
       {
         id: 52,
         name: "Masturbation",
-        description: "[TBD]",
+        description: "A character is sexually stimulating themselves.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -584,7 +584,7 @@ const tagsData = {
       {
         id: 114,
         name: "MaleDom",
-        description: "[TBD]",
+        description: "Sexual scenes depicting a dominant male.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -594,7 +594,7 @@ const tagsData = {
       {
         id: 115,
         name: "MaleSub",
-        description: "[TBD]",
+        description: "Sexual scenes depicting a submissive male.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -604,7 +604,7 @@ const tagsData = {
       {
         id: 54,
         name: "MindControl",
-        description: "[TBD]",
+        description: "A character taking control of another, commonly by hypnosis.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -634,7 +634,7 @@ const tagsData = {
       {
         id: 57,
         name: "OralSex",
-        description: "[TBD]",
+        description: "Stimulation of the genitals by the mouth (Including anal)",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -644,7 +644,7 @@ const tagsData = {
       {
         id: 58,
         name: "Posession",
-        description: "[TBD]",
+        description: "A character's body is invaded by a magical, spiritual, or otherwordly forced. Often for control.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -654,7 +654,7 @@ const tagsData = {
       {
         id: 59,
         name: "Pregnancy",
-        description: "[TBD]",
+        description: "A visibly pregnant character who's carrying one or more unborn offspring.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -664,7 +664,7 @@ const tagsData = {
       {
         id: 60,
         name: "Prostitution",
-        description: "[TBD]",
+        description: "Offering sexual activity in exchange for payment.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -674,7 +674,7 @@ const tagsData = {
       {
         id: 61,
         name: "Rape",
-        description: "[TBD]",
+        description: "A character is forcing another to engage in sexual activities without their consent or will.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -684,7 +684,7 @@ const tagsData = {
       {
         id: 62,
         name: "Scat",
-        description: "[TBD]",
+        description: "Sexual pleasure from feces.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -704,7 +704,7 @@ const tagsData = {
       {
         id: 64,
         name: "Sissification",
-        description: "[TBD]",
+        description: "A male bodied character is made to look girly (sissy), often through transformation.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -714,7 +714,7 @@ const tagsData = {
       {
         id: 65,
         name: "Spanking",
-        description: "[TBD]",
+        description: "A character strikes another on the buttcheeks with an open palm with enough force to hurt, but not to permanently harm.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -724,7 +724,7 @@ const tagsData = {
       {
         id: 66,
         name: "Stripping",
-        description: "[TBD]",
+        description: "A character removes their clothing, often in a sexual or slow manner.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -734,7 +734,7 @@ const tagsData = {
       {
         id: 123,
         name: "Submission",
-        description: "[TBD]",
+        description: "Being controlled, dictated, or dominated by another character (the dominant).",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -744,7 +744,7 @@ const tagsData = {
       {
         id: 67,
         name: "Teasing",
-        description: "[TBD]",
+        description: "Words, poses, touches, or other actions intended to provoke a reaction, usually embarrassment, or arousal.",
         category: "Kinks",
         status: 1,
         comment: null,
@@ -754,7 +754,7 @@ const tagsData = {
       {
         id: 68,
         name: "Titfuck",
-        description: "[TBD]",
+        description: "A character's penis is placed between another's breasts and sexually stimulated.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -764,7 +764,7 @@ const tagsData = {
       {
         id: 69,
         name: "Transformation",
-        description: "[TBD]",
+        description: "A character is transformed from one form to another, usually forced.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -774,7 +774,7 @@ const tagsData = {
       {
         id: 70,
         name: "Urination",
-        description: "[TBD]",
+        description: "Sexual activity involving peeing or urine.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -784,7 +784,7 @@ const tagsData = {
       {
         id: 71,
         name: "Vaginal-Sex",
-        description: "[TBD]",
+        description: "Sexual activity involving the vagina.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -794,7 +794,7 @@ const tagsData = {
       {
         id: 72,
         name: "Vanilla",
-        description: "[TBD]",
+        description: "Sexual activities that do not involve other fetishes or kinks.",
         category: "Kinks",
         status: 1,
         comment: "Everyone has their own tastes i guess...",
@@ -804,7 +804,7 @@ const tagsData = {
       {
         id: 73,
         name: "Vore",
-        description: "[TBD]",
+        description: "A character consumes, inserts, or absorbs another.",
         category: "Kinks",
         status: 2,
         comment: null,
@@ -828,7 +828,7 @@ const tagsData = {
       {
         id: 75,
         name: "Adventure",
-        description: "[TBD]",
+        description: "A genre that often involves danger, or gives a sense of excitement.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -838,7 +838,7 @@ const tagsData = {
       {
         id: 76,
         name: "DateSim",
-        description: "[TBD]",
+        description: "A genre where a character romances or dates other characters.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -847,8 +847,8 @@ const tagsData = {
       },
       {
         id: 77,
-        name: "Dystopy",
-        description: "[TBD]",
+        name: "Dystopia",
+        description: "An extremely bad or frightening society, the opposite of an utopia.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -858,7 +858,7 @@ const tagsData = {
       {
         id: 78,
         name: "Fantasy",
-        description: "[TBD]",
+        description: "Speculative fiction, usually supernatural, magic, and imaginary.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -868,7 +868,7 @@ const tagsData = {
       {
         id: 79,
         name: "Horror",
-        description: "[TBD]",
+        description: "Fiction intended to disturb, frighten, or scare.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -878,7 +878,7 @@ const tagsData = {
       {
         id: 80,
         name: "Harem",
-        description: "[TBD]",
+        description: "A character with multiple partners.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -888,7 +888,7 @@ const tagsData = {
       {
         id: 81,
         name: "KineticNovel",
-        description: "[TBD]",
+        description: "A Visual Novel with a purely linear story with only one ending. Often advanced with the press of only one button.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -898,7 +898,7 @@ const tagsData = {
       {
         id: 82,
         name: "Management",
-        description: "[TBD]",
+        description: "Games where the player is expected to manage an organization or building.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -908,7 +908,7 @@ const tagsData = {
       {
         id: 83,
         name: "Multiple-Endings",
-        description: "[TBD]",
+        description: "The player can get more than one significant ending.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -918,7 +918,7 @@ const tagsData = {
       {
         id: 84,
         name: "No-Sex",
-        description: "[TBD]",
+        description: "Games where there are no sexual activities depicted. Often only nudity.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -928,7 +928,7 @@ const tagsData = {
       {
         id: 85,
         name: "Paranormal",
-        description: "[TBD]",
+        description: "Games where there are phenomena or characters beyond the range of normal or scientific explaination. Often horror, involving ghosts.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -938,7 +938,7 @@ const tagsData = {
       {
         id: 86,
         name: "Parody",
-        description: "[TBD]",
+        description: "A game that imitates the style of another, often done for comedy or satire (ridicule, mockery)",
         category: "Genre",
         status: 1,
         comment: null,
@@ -948,7 +948,7 @@ const tagsData = {
       {
         id: 87,
         name: "Platformer",
-        description: "[TBD]",
+        description: "Action video game in which the core objective is to move the character to another point with multiple obstacles, uneven terrain, or platforms.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -958,7 +958,7 @@ const tagsData = {
       {
         id: 88,
         name: "Point-n-Click",
-        description: "[TBD]",
+        description: "A game in which the player only needs to use the mouse to point and click.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -968,7 +968,7 @@ const tagsData = {
       {
         id: 89,
         name: "Puzzle",
-        description: "[TBD]",
+        description: "A game in which the focus is on solving puzzles or riddles.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -991,7 +991,7 @@ const tagsData = {
       {
         id: 91,
         name: "Sandbox",
-        description: "[TBD]",
+        description: "A game in which the player has a great degree of creativitiy, often with no predetermined goal",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1001,7 +1001,7 @@ const tagsData = {
       {
         id: 92,
         name: "Sci-Fi",
-        description: "[TBD]",
+        description: "Speculactive fiction of futuristic concepts such as advances in science, space travel, parallel universes, and alien life.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1011,7 +1011,7 @@ const tagsData = {
       {
         id: 93,
         name: "School",
-        description: "[TBD]",
+        description: "Games in which the main focus is a place of learning, a shcool, or its environment.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1021,7 +1021,7 @@ const tagsData = {
       {
         id: 94,
         name: "Shooter",
-        description: "[TBD]",
+        description: "Games in which the focus is on the main character using ranged weapons to defeat enemies.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1031,7 +1031,7 @@ const tagsData = {
       {
         id: 95,
         name: "Side-scroller",
-        description: "[TBD]",
+        description: "A type of 2D game where the camera follows the player, usually, left-to-right, from the side. Common in platformers.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1041,7 +1041,7 @@ const tagsData = {
       {
         id: 97,
         name: "Simulator",
-        description: "[TBD]",
+        description: "Games that attempt to closely simulate or depict a real life or imagined activity.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1051,7 +1051,7 @@ const tagsData = {
       {
         id: 98,
         name: "Strategy",
-        description: "[TBD]",
+        description: "Games that focus on the decision making skills of the player.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1061,7 +1061,7 @@ const tagsData = {
       {
         id: 99,
         name: "Text-based",
-        description: "[TBD]",
+        description: "Games that focus on purely text, often assisted by images or some animation.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1071,7 +1071,7 @@ const tagsData = {
       {
         id: 100,
         name: "Turn-based",
-        description: "[TBD]",
+        description: "Games where the player or/and the enemy take turns when playing, in opposition to real time.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1091,7 +1091,7 @@ const tagsData = {
       {
         id: 103,
         name: "VisualNovel",
-        description: "[TBD]",
+        description: "Games with a textual narrative combined with static or animated illustrations.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1129,7 +1129,7 @@ const tagsData = {
       {
         id: 106,
         name: "Full-censorship",
-        description: "[TBD]",
+        description: "Genitalia are fully censored (censor boxes, white-out). Common in japanese eroge",
         category: "Meta",
         status: 1,
         comment: null,
@@ -1139,7 +1139,7 @@ const tagsData = {
       {
         id: 107,
         name: "Mosaic-censorship",
-        description: "[TBD]",
+        description: "Genitalia are censored with a mosaic pixel-like filter. Common in japanese eroge.",
         category: "Meta",
         status: 1,
         comment: null,
@@ -1149,7 +1149,7 @@ const tagsData = {
       {
         id: 108,
         name: "Uncensored",
-        description: "[TBD]",
+        description: "Genitalia are not censored.",
         category: "Meta",
         status: 1,
         comment: null,
@@ -1159,7 +1159,7 @@ const tagsData = {
       {
         id: 109,
         name: "Translated",
-        description: "[TBD]",
+        description: "The game is translated to another language, commonly to english, by a 3rd party or intenrally.",
         category: "Meta",
         status: 1,
         comment: null,
