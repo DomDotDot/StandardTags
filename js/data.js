@@ -392,7 +392,7 @@ const tagsData = {
         category: "Kinks",
         status: 2,
         comment: null,
-        aliases: [],
+        aliases: ["Chemical"],
         slaveTags: []
       },
       {
@@ -469,23 +469,13 @@ const tagsData = {
         slaveTags: ["ServerErrorCode"]
       },
       {
-        id: 42,
-        name: "Futanari",
-        description: "[TBD]",
-        category: "Kinks",
-        status: 2,
-        comment: null,
-        aliases: ["Futa", "Trans"],
-        slaveTags: []
-      },
-      {
         id: 43,
         name: "Homosexual",
         description: "[TBD]",
         category: "Kinks",
         status: 1,
         comment: null,
-        aliases: ["Gay", "Lesbian"],
+        aliases: ["Yaoi", "Yuri", "Gay", "Lesbian"],
         slaveTags: []
       },
       {
@@ -672,6 +662,26 @@ const tagsData = {
         slaveTags: []
       },
       {
+        id: 116,
+        name: "Petrification",
+        description: "[TBD]",
+        category: "Kinks",
+        status: 1,
+        comment: null,
+        aliases: ["Statue", "Stiff"],
+        slaveTags: []
+      },
+      {
+        id: 117,
+        name: "Parasite",
+        description: "[TBD]",
+        category: "Kinks",
+        status: 2,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
         id: 61,
         name: "Rape",
         description: "[TBD]",
@@ -693,7 +703,7 @@ const tagsData = {
       },
       {
         id: 63,
-        name: "Shota",
+        name: "Shotacon",
         description: "Sexual attraction to prepubescent male children",
         category: "Kinks",
         status: 2,
@@ -769,7 +779,7 @@ const tagsData = {
         status: 2,
         comment: null,
         aliases: ["TG", "TFG"],
-        slaveTags: ["Bimbofication", "Sissification", "Body-Modification"]
+        slaveTags: ["Bimbofication", "Sissification", "Body-Modification", "Petrification"]
       },
       {
         id: 70,
@@ -1109,6 +1119,108 @@ const tagsData = {
         category: "Characters",
         status: 1,
         comment: "Includes both humanoid and non-humanoid aliens",
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 119,
+        name: "Female",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 120,
+        name: "Male",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 121,
+        name: "NonBinary",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 118,
+        name: "Insect",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: ["Bug"],
+        slaveTags: []
+      },
+      {
+        id: 42,
+        name: "Futanari",
+        description: "[TBD]",
+        category: "Characters",
+        status: 2,
+        comment: null,
+        aliases: ["Futa", "Trans"],
+        slaveTags: []
+      },
+      {
+        id: 122,
+        name: "Bee",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 123,
+        name: "Bear",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 124,
+        name: "Humanoid",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 121,
+        name: "NonHumanoid",
+        description: "[TBD]",
+        category: "Characters",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+
+
+      {
+        id: 200,
+        name: "Sex-Toys",
+        description: "Game features sex toys",
+        category: "Characters",
+        status: 1,
+        comment: null,
         aliases: [],
         slaveTags: []
       },
