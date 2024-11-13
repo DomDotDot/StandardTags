@@ -1021,7 +1021,7 @@ const tagsData = {
       {
         id: 93,
         name: "School",
-        description: "Games in which the main focus is a place of learning, a shcool, or its environment.",
+        description: "Games in which the main focus is a place of learning, a school, or its environment.",
         category: "Genre",
         status: 1,
         comment: null,
@@ -1271,7 +1271,7 @@ const tagsData = {
       {
         id: 109,
         name: "Translated",
-        description: "The game is translated to another language, commonly to english, by a 3rd party or intenrally.",
+        description: "The game is translated to another language, commonly to english, by a 3rd party or internally.",
         category: "Meta",
         status: 1,
         comment: null,
