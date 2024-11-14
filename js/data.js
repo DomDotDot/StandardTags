@@ -205,6 +205,26 @@ const tagsData = {
         slaveTags: ["2D-cg"]
       },
       {
+
+        name: "FirstPerson",
+        description: "[TBD]",
+        category: "Technical",
+        status: 1,
+        comment: null,
+        aliases: ["FPS"],
+        slaveTags: []
+      },
+      {
+
+        name: "ThirdPerson",
+        description: "[TBD]",
+        category: "Technical",
+        status: 1,
+        comment: null,
+        aliases: ["TPS"],
+        slaveTags: []
+      },
+      {
         id: 16,
         name: "Voiced",
         description: "Text is fully or partially voiced by voice actors",
@@ -1035,7 +1055,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: [],
+        aliases: ["Open-World"],
         slaveTags: []
       },
       {
@@ -1045,7 +1065,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: ["Science fiction"],
+        aliases: ["Science-Fiction", "Future"],
         slaveTags: []
       },
       {
@@ -1055,7 +1075,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: [],
+        aliases: ["Highschool"],
         slaveTags: []
       },
       {
@@ -1065,7 +1085,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: ["FPS"],
+        aliases: [],
         slaveTags: []
       },
       {
@@ -1076,7 +1096,7 @@ const tagsData = {
         status: 1,
         comment: null,
         aliases: [],
-        slaveTags: []
+        slaveTags: ["Platformer"]
       },
       {
         id: 97,
@@ -1095,8 +1115,18 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: ["RTS"],
+        aliases: [],
         slaveTags: []
+      },
+      {
+
+        name: "RealTime",
+        description: "[TBD]",
+        category: "Genre",
+        status: 1,
+        comment: null,
+        aliases: ["RTS"],
+        slaveTags: ["Strategy"]
       },
       {
         id: 99,
@@ -1115,7 +1145,17 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: [],
+        aliases: ["TBS"],
+        slaveTags: ["Strategy"]
+      },
+      {
+
+        name: "Rhythm",
+        description: "[TBD]",
+        category: "Genre",
+        status: 1,
+        comment: null,
+        aliases: ["Musical"],
         slaveTags: []
       },
       {
