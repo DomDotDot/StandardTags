@@ -185,6 +185,26 @@ const tagsData = {
         slaveTags: []
       },
       {
+
+        name: "Pixel",
+        description: "[TBD]",
+        category: "Technical",
+        status: 1,
+        comment: null,
+        aliases: ["Retro"],
+        slaveTags: ["2D-cg"]
+      },
+      {
+
+        name: "Sprites",
+        description: "[TBD]",
+        category: "Technical",
+        status: 1,
+        comment: null,
+        aliases: ["Arts"],
+        slaveTags: ["2D-cg"]
+      },
+      {
         id: 16,
         name: "Voiced",
         description: "Text is fully or partially voiced by voice actors",
@@ -194,6 +214,16 @@ const tagsData = {
         aliases: ["VA", "Voice actor"],
         slaveTags: []
       },
+      {
+
+      name: "",
+      description: "",
+      category: "Technical",
+      status: 1,
+      comment: null,
+      aliases: [],
+      slaveTags: []
+    },
 
 
 
