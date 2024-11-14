@@ -236,15 +236,44 @@ const tagsData = {
       },
       {
 
-      name: "",
-      description: "",
+      name: "SinglePlayer",
+      description: "[TBD]",
       category: "Technical",
       status: 1,
       comment: null,
-      aliases: [],
+      aliases: ["SP", "Alone"],
       slaveTags: []
     },
+    {
 
+      name: "MultiPlayer",
+      description: "[TBD]",
+      category: "Technical",
+      status: 1,
+      comment: null,
+      aliases: ["MP", "Multiple"],
+      slaveTags: ["Online"]
+    },
+    {
+      id: 125,
+      name: "Online",
+      description: "[TBD]",
+      category: "Technical",
+      status: 1,
+      comment: null,
+      aliases: ["Web", "WorldWide"],
+      slaveTags: []
+    },
+    {
+
+      name: "LAN",
+      description: "[TBD]",
+      category: "Technical",
+      status: 1,
+      comment: null,
+      aliases: ["Local"],
+      slaveTags: ["Online"]
+    },
 
 
       
@@ -982,7 +1011,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: [],
+        aliases: ["Ecchi"],
         slaveTags: []
       },
       {
@@ -1002,7 +1031,7 @@ const tagsData = {
         category: "Genre",
         status: 1,
         comment: null,
-        aliases: [],
+        aliases: ["Comedy"],
         slaveTags: []
       },
       {
