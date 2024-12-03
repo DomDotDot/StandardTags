@@ -185,7 +185,7 @@ const tagsData = {
         slaveTags: []
       },
       {
-
+        id: 126,
         name: "Pixel",
         description: "[TBD]",
         category: "Technical",
@@ -195,7 +195,7 @@ const tagsData = {
         slaveTags: ["2D-cg"]
       },
       {
-
+        id: 127,
         name: "Sprites",
         description: "[TBD]",
         category: "Technical",
@@ -205,7 +205,7 @@ const tagsData = {
         slaveTags: ["2D-cg"]
       },
       {
-
+        id: 128,
         name: "FirstPerson",
         description: "[TBD]",
         category: "Technical",
@@ -215,7 +215,7 @@ const tagsData = {
         slaveTags: []
       },
       {
-
+        id: 129,
         name: "ThirdPerson",
         description: "[TBD]",
         category: "Technical",
@@ -235,7 +235,7 @@ const tagsData = {
         slaveTags: []
       },
       {
-
+      id: 130,
       name: "SinglePlayer",
       description: "[TBD]",
       category: "Technical",
@@ -245,7 +245,7 @@ const tagsData = {
       slaveTags: []
     },
     {
-
+      id: 131,
       name: "MultiPlayer",
       description: "[TBD]",
       category: "Technical",
@@ -265,7 +265,7 @@ const tagsData = {
       slaveTags: []
     },
     {
-
+      id: 132,
       name: "LAN",
       description: "[TBD]",
       category: "Technical",
@@ -353,6 +353,16 @@ const tagsData = {
         ],
         slaveTags: ['Dilf', 'Milf', "Lolicon", "Shota"]
             
+      },
+      {
+        id: 135,
+        name: "Ageplay",
+        description: "[TBD]",
+        category: "Accessory",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
       },
       {
         id: 24,
@@ -1148,7 +1158,7 @@ const tagsData = {
         slaveTags: []
       },
       {
-
+        id: 133,
         name: "RealTime",
         description: "[TBD]",
         category: "Genre",
@@ -1178,7 +1188,7 @@ const tagsData = {
         slaveTags: ["Strategy"]
       },
       {
-
+        id: 134,
         name: "Rhythm",
         description: "[TBD]",
         category: "Genre",
@@ -1317,7 +1327,37 @@ const tagsData = {
         id: 200,
         name: "Sex-Toys",
         description: "Game features sex toys",
-        category: "Characters",
+        category: "Accessory",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 201,
+        name: "Latex",
+        description: "[TBD]",
+        category: "Accessory",
+        status: 1,
+        comment: null,
+        aliases: ["Leather"],
+        slaveTags: []
+      },
+      {
+        id: 202,
+        name: "Crossdressing",
+        description: "[TBD]",
+        category: "Accessory",
+        status: 1,
+        comment: null,
+        aliases: [],
+        slaveTags: []
+      },
+      {
+        id: 202,
+        name: "Uniform",
+        description: "[TBD]",
+        category: "Accessory",
         status: 1,
         comment: null,
         aliases: [],
